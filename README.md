@@ -14,8 +14,7 @@ This repository hosts the Niepsha Cursive font design project for standard Liang
 6. [Feedback](#feedback)
 
 ## Download
-- Beta fonts will be placed in `BetaVersion/`.
-- Media assets for documentation live in `Doc/Image/`.
+- Beta fonts will be placed in `releases/`.
 
 ## Design Rationale & Goals
 ꀋꃋꄚꄆꌅꉁꈾꌊꆀꄯꒉꍑꄻꅍꇬꌬꌠꆈꌠꁱꂷꈧꌠ，ꇿꑌꁱꂷꃚꐨꀁꃚꇨ。ꈛꑌꃅꉜꇬꉌꈲꁱꂷꌊꆀꐯꀋꄮ，ꋍꂷꀉꃚꇨꋍꂷꀁꃚꇨ。ꀊꎴꃅꉜꇬꅉꆈꌠꁱꂷꉜꀋꐚꇬꎷ。ꑠꅹ，ꉢꀋꃅꋌꃢꎖꄎꇬꈍꃅꆈꌠꁱꂷꁱꉻꄻꌊꀉꃚꌐꌠꋒꃯꄉꀐ。
