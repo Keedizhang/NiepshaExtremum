@@ -6,15 +6,14 @@
 
 This repository hosts the Niepsha Cursive font design project for standard Liangshan Yi script. It also tracks terminology translation and documentation for Yi-script typography and graphic design.
 
-1. [Download](#download)
-2. [Design Rationale & Goals](#design-rationale--goals)
-3. [Glossary](#glossary)
-4. [Changelog](#changelog)
-5. [License](#license)
-6. [Feedback](#feedback)
+Beta fonts will be placed in `Releases`.
 
-## Download
-- Beta fonts will be placed in `releases/`.
+1. [Design Rationale & Goals](#design-rationale--goals)
+2. [Glossary](#glossary)
+3. [Changelog](#changelog)
+4. [License](#license)
+5. [Feedback](#feedback)
+
 
 ## Design Rationale & Goals
 ꀋꃋꄚꄆꌅꉁꈾꌊꆀꄯꒉꍑꄻꅍꇬꌬꌠꆈꌠꁱꂷꈧꌠ，ꇿꑌꁱꂷꃚꐨꀁꃚꇨ。ꈛꑌꃅꉜꇬꉌꈲꁱꂷꌊꆀꐯꀋꄮ，ꋍꂷꀉꃚꇨꋍꂷꀁꃚꇨ。ꀊꎴꃅꉜꇬꅉꆈꌠꁱꂷꉜꀋꐚꇬꎷ。ꑠꅹ，ꉢꀋꃅꋌꃢꎖꄎꇬꈍꃅꆈꌠꁱꂷꁱꉻꄻꌊꀉꃚꌐꌠꋒꃯꄉꀐ。
